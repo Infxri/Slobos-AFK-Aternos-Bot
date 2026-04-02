@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 30,
       "messages": [
         "I'm a regular player",
         "Pranav is so gay",
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 100
     }
   },
   "modules": {
